@@ -1,0 +1,8 @@
+{
+  "name": "node-typescript-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joseizaias/node-typescript-api.git",
+  "author": "jose izaias alcantara lima <joseizaias@gmail.com>",
+  "license": "MIT"
+}
